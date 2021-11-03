@@ -27,6 +27,7 @@ print("p" not in "Pineapple")
 
 #question 9
 print('\"Livin\' On a Prayer\" is my friend\'s favorite song.')
+
 #question 10
 
 print(len('\"Livin\' On a Prayer\" is my friend\'s favorite song.'))
